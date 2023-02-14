@@ -1,0 +1,348 @@
+.sep {
+    width: 100%;
+    height: 8px;
+    background-color: #2d2d2d;
+}
+.cabeca {
+    height: 700px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('https://assets.nflxext.com/ffe/siteui/vlv3/3d6cf7c4-ad17-457a-b6cf-ea952926ba74/54a0de92-feb4-4891-8cb3-00a794ec89f6/IN-en-20230206-popsignuptwoweeks-perspective_alpha_website_large.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.btn-dark:focus {
+    border: 2px solid #ffffffb3;
+}
+.btn-dark:hover {
+    border: 2px solid #ffffffb3;
+}
+.btn-dark:active {
+    border-color: #ffffffb3;
+}
+.btn-dark {
+    background: rgba(43, 39, 39, 0.8);
+    margin-top: 20px;
+    border-color: #ffffffb3;
+}
+.d1img {
+    width: 150pt;
+    margin-top: -5px;
+}
+.b1t1 select {
+    height: 24pt;
+    width: 130px;
+    border-radius: 5px;
+    border: 1px solid rgb(157, 140, 140);
+}
+.b12 {
+    height: 24pt;
+    color: white;
+    background-color: rgb(219, 42, 42);
+    font-size: 14px;
+    padding-top: 3px;
+}
+.d1frm1 {
+    margin-top: 18vh;
+    text-align: center;
+    color: white;
+}
+.txt1 {
+    font-size: 35pt;
+    font-weight: 560;
+}
+.d1frm2 {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.email {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 400px;
+    height: 56px;
+    padding: 8px 26px;
+}
+.btn3 {
+    height: 55px;
+    font-size: 17pt;
+    font-weight: 500;
+    background: #E50914;
+    border-radius: 0px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.tv {
+    display: flex;
+    height: 35vw;
+    align-items: center;
+    padding-inline: 2rem;
+    background-color: black;
+    color: white;
+}
+.d2lft {
+    width: 50%;
+    height: 100%;
+    z-index: 1;
+    align-items: center;
+}
+.d2txt1 {
+    color: white;
+    margin-top: 4.3em;
+    margin-left: 3em;
+    font-size: 3vw;
+}
+.d2txt2 {
+    padding-right: 80px;
+    margin-left: 7.5em;
+    font-size: 1.2vw;
+}
+.card-img-container {
+    position: relative;
+}
+.story-card-img {
+    position: relative;
+    z-index: 1;
+}
+.card-animation {
+    position: absolute;
+    top: 5.2vw;
+    left: 13.2%;
+}
+.d2tv1 {
+    width: 35vw;
+}
+.d2tv2 {
+    width: 26vw;
+}
+.downloadd {
+    height: 35vw;
+    display: flex;
+    color: white;
+    position: relative;
+    background-color: black;
+}
+.d3gt1 {
+    height: 80%;
+    width: 40vw;
+    padding-left: 7rem;
+}
+.d3lt {
+    width: 45%;
+    height: 100%;
+    align-items: center;
+}
+.d3img1 {
+    width: 50px;
+    height: 60px;
+    margin-top: 6px;
+    margin-left: 20px;
+}
+.d3img2 {
+    position: absolute;
+    width: 43px;
+    height: 50px;
+    top: 10px;
+    right: 20px;
+}
+.d3bx1 {
+    width: 18vw;
+    height: 5em;
+    background-color: black;
+    position: absolute;
+    border: 2px solid gray;
+    border-radius: 15px;
+    bottom: 6vw;
+    left: 14.5%;
+    z-index: 1;
+    min-width: 17vw;
+}
+.d3bx1 h4 {
+    color: white;
+    position: absolute;
+    top: 1.3em;
+    left: 4.5em;
+    font-size: 1.8vh;
+}
+.d3bx1 h5 {
+    color: #0071EB;
+    position: absolute;
+    top: 3.3em;
+    left: 6.2em;
+    font-size: 1.3vh;
+    font-weight: 400;
+}
+.d3rt {
+    width: 50%;
+    padding: 15% 1rem;
+    z-index: 1;
+    align-items: center;
+}
+.d3txt1 {
+    font-size: 3vw;
+}
+.d3txt2 {
+    font-size: 1.2vw;
+}
+.quandoquiser {
+    display: flex;
+    height: 35vw;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+}
+.d4txt1 {
+    margin-top: 4.3em;
+    margin-left: 3em;
+    font-size: 3vw;
+}
+.d4txt2 {
+    padding-right: 80px;
+    margin-left: 7.5em;
+    font-size: 1.2vw;
+}
+.d4-v1 {
+    width: 38vw;
+}
+.d4lt {
+    width: 50%;
+    height: 100%;
+    align-items: center;
+}
+.d4-v2 {
+    position: absolute;
+    top: 2.5vw;
+    left: 18.8%;
+}
+.d4-v3 {
+    width: 24vw;
+
+}
+.criancas {
+    display: flex;
+    position: relative;
+    color: white;
+    height: 35vw;
+    background-color: black;
+}
+.d5lt {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 50%;
+    padding-left: 2rem;
+}
+.d5img {
+    width: 98%;
+    margin-top: 3.5vw;
+    margin-left: 2vw;
+}
+.d5txt1 {
+    margin-top: 4em;
+    font-size: 3vw;
+}
+.d5txt2 {
+    padding-right: 80px;
+    font-size: 1.2vw;
+}
+.d5rt {
+    padding: 40px;
+}
+.perguntas {
+    color: white;
+    height: 53em;
+    background-color: black;
+    padding: 32px 0px;
+}
+.d6btn {
+    padding: 1px 12vw;
+    padding-top: 25px;
+}
+.d6txt1 {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+.d6btn button {
+    width: 80vw;
+    color: white;
+    font-size: 2em;
+    margin: 3px 2px;
+    padding: 18px 50px;
+    text-align: left;
+    background-color: #2d2d2d;
+    border: none;
+}
+.d6btn button:hover {
+    background-color: gray;
+    color: white;
+}
+.d6txt3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.fm1 {
+    display: flex;
+    justify-content: center;
+}
+.fm1 input {
+    width: 30vw;
+    height: 50px;
+    border: none;
+    padding: 12px 26px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+.fm1 button {
+    width: 190px;
+    height: 51.5px;
+    font-size: 17pt;
+    font-weight: 500;
+    background: red;
+    margin-top: -0.4px;
+    padding-top: 6px;
+    margin-left: 2px;
+    border: none;
+    border-radius: 0px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.pls-svg {
+    width: 80px;
+    height: 40px;
+    float: right;
+    margin-top: 0.31pt;
+}
+.rodape {
+    height: 300pt;
+    background-color: black;
+    padding: 48px 10%;
+}
+.p7main a {
+    text-decoration: underline;
+    color: #ffffffb3;
+}
+.p7main p {
+    font-size: 15px;
+    color: #ffffffb3;
+    margin-top: 15px;
+    line-height: 20px;
+}
+.p7main {
+    color: #ffffffb3;
+    font-size: 16px;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+.p7grid {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.p7grid a {
+    color: #ffffffb3;
+    width: 180px;
+    font-size: 14px;
+    margin-top: 10px;
+    text-decoration: underline;
+}
